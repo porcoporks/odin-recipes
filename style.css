@@ -65,9 +65,10 @@ body {
 }
 
 #lista img{
-    width: 150px;
-    height: 150px;
-    margin: 60px;
+    width: 300px;
+    height: 300px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
 
 .prato {
@@ -79,6 +80,10 @@ body {
     -webkit-text-stroke-color: #000;
     -webkit-text-fill-color: lightcyan;
     font-size: 38px;
+}
+
+#containersupremo {
+    text-align: center;
 }
 
 
