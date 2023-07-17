@@ -27,15 +27,15 @@ body {
 
 #comida img{
     width: 150px;
-    height: auto;
+    height: 150px;
     float: left;
-    margin: 20px;
+    margin-right: 20px;
     border: 3px solid #d7d8d7;
 }
 
 #desc {
-    float: top;
-    padding-top: 10px;
+    margin-bottom: 60px;
+    vertical-align: middle;
 }
 
 .logo a img{
@@ -55,6 +55,7 @@ body {
     float: left;
     color: rgb(0, 0, 0);
     line-height: 30px;
+    margin-left: 30px;
 }
 
 #lista {
